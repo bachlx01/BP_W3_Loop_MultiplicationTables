@@ -1,4 +1,4 @@
-document.write('<table style="border-collapse: collapse; ">')
+document.write('<table>')
 for (i=1;i<11;i++){
     document.write('<tr>')
     for (j=1;j<11;j++){
